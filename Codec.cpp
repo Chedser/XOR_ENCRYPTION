@@ -13,7 +13,7 @@
 #define B 2396403
 #define C 32768
 
-#include "IOManager_h.h"
+#include "IOManager.h"
 #include <iostream>
 #include <string>
 #include <cstdlib>
