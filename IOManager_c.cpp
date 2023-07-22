@@ -2,7 +2,7 @@
 #ifndef IOMANAGER_C
 #define IOMANAGER_C
 
-#include "IOManager_h.h"
+#include "IOManager.h"
 
 string IOManager::GetManual() {
 
