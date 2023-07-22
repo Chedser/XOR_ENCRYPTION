@@ -25,6 +25,5 @@ public:
     static void  WriteFile(string, string); // Запись в файл
     static string ReadFile(string); // Чтение файйла в строку
 };
-
 #endif
 
