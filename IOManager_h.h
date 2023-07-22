@@ -16,9 +16,7 @@ using std::ifstream;
 using std::vector;
 
 class IOManager {
-
 public:
-
     static  string GetManual(); // Справка
     static bool IsDigit(string); // Проверка на цифру
     static bool FileExists(string); // Проверка на существование файла
